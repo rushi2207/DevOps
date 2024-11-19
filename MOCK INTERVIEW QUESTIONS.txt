@@ -1,0 +1,69 @@
+                               MOCK INTERVIEW QUESTIONS
+----------------------------------------------------------------------------------------
+1.	What is EC2?
+2.	What is key pair?
+3.	What is role of Product owner and Scrum master?
+4.	What is IIS?
+5.	telnet port?
+6.	DNS port?
+7.	OSI model with all layers?
+8.	What is linux?
+9.	Why Linux is more secure than Windows?
+10.	Explain 10 linux commands.
+11.	Types of Shell script.
+12.	What is cloud computing?
+13.	What is shabang?
+14.	What is difference between compiler and interpreter?
+15.	Types of clouds?
+16.	What is 3-tier architecture?
+17.	Explain Agile model.
+18.	What is AWS?
+19.	What is thread in linux?
+20.	How to check linux version?
+21.	What is difference between linux and windows?
+22.	What is inode number?
+23.	What is virtual machine?
+24.	Difference between Availability zone and region?
+25.	Explain zombie process.
+26.	How to clear all history?
+27.	How to take access of VM?
+28.	What is the difference between waterfall model and agile model
+29.	What is AWK?
+30.	 What are Linux distributions ?
+31.	What is nginx?
+32.	Home directory command
+33. cat command
+34. How to remove file/folder?
+35. What is a thread in Linux?
+36. What is TCP?
+37. What is Network Interpreter?
+38. ⁠Types of EC2
+39. ⁠What is network topology?
+40. What is command for copy file?
+41. What is Top command?
+
+--------------------------------------------------------------------------------------
+
+1. What's difference between EBS n EFS?
+2. How will you secure your ec2 instance?
+3. What is AWS back up n it's types?
+4. What is a vault?
+5. What is retention period?
+6. How will you add volume to your ec2 instance?
+7. What's s3 bucket?
+8. How will you delete an s3 bucket?
+9. Explain any 10 linux commands?
+10. What are storage types?
+11. What's difference between S3 glacier and deep archive glacier?
+12. What's IIS?
+13. Explain types of instances 
+14. Explain s3 lifecycle.
+15. Use of kill command.
+16. How to create snapshot? 
+17. What is EC2? 
+18. What tar command? 
+19. What is top command? 
+20. What is diff between linux and Ubuntu? 
+21. How to resize EC2 machine? 
+22. How will you know s3 bucket is empty or not?
+23. What is curl command?
